@@ -8,4 +8,4 @@ function rev(str) {
   }
  
   }
-console.log(rev("maadam"));
+console.log(rev("madam"));
